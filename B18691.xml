@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the owners of ships concerned in the coal-trade Humbly offered to the consideration of the honourable the Commons in Parliament assembled.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18691</idno><idno type="EEBO-CITATION">99832073</idno>
+  <idno type="VID">198897</idno>
+  <idno type="EEBO-PROQUEST">2248535498</idno>
+  
+            <idno type="STC">Wing C1124B</idno>
+            <idno type="PROQUEST">99832073</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832073e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18691)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198897)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21242:90)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the owners of ships concerned in the coal-trade Humbly offered to the consideration of the honourable the Commons in Parliament assembled.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>With marginal notes.</note>
+                  <note>With docket title: The case of the owners of ships, concerned in the coal-trade.</note>
+                  <note>Copy has print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term type="topical_term">Coal trade --  Early works to 1800.</term>
+               <term type="topical_term">Shipping --  England --  Early works to 1800.</term>
+               <term type="topical_term">Ships --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:198897:1"/>
+            <head>THE CASE OF <hi>The Owners of Ships concerned in the Coal-Trade.</hi>
+            </head>
+            <head>Humbly offered to the Consideration of the Honourable the Commons in Parliament Assembled.</head>
+            <p>THE Coal-trade imploys at least 1200 Sail of Ships on the West and East part of the Kingdom of <hi>England,</hi>
+               <note place="margin">1200 Sail of Ships imployed, and navi<g ref="char:EOLhyphen"/>gated with 15000 Men.</note> and to Navigate them about 15000 Men, all which are now liable to be Impressed; but if Protected, whether shall the Admiralty go for Men, seeing the Home-trade with our opposite Neighbours is gone, and our Ships at <hi>Virginia</hi> and the <hi>West-Indies</hi> cann't be reach'd? Must the Navy Royal lie still, or hazard a Battle at Sea half Mann'd, as its said the <hi>Dartmouth</hi> did, and was, in an Ingage<g ref="char:EOLhyphen"/>ment with one or two Privateers, taken, and now at St. <hi>Malo's?</hi>
+            </p>
+            <p>The vast Trade we use to have with the Northern Crowns being lost, as to the English Shipping, the Coal-trade is the greatest Nursery for Seamen; and as it Imploys 15000 at Sea, so above Ground and under it, imploys near a Hundred Thousand of Labour<g ref="char:EOLhyphen"/>ing Men, besides a vast number of Cattle, <hi>&amp;c.</hi> in getting the Coals.</p>
+            <p n="1">1.
+<note place="margin">
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Hundred Thousand of Labour<g ref="char:EOLhyphen"/>ing Men imployed a<g ref="char:EOLhyphen"/>about <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Saylor.</note> To the Surface of the Earth. 2. From thence to the sundry Places at the Water-side. 3. From thence to the Ships-side, and after at <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Port of Delivery to the Shore again, and thence to the sundry Habitations where consumed: All which Employments, both by Sea and Land, are exceeding advantagious to the Poor, as well as to Navigation.</p>
+            <p>And this was so far taken notice of, that in the latter part of the Reign of King <hi>Charles</hi> II. and the beginning of the Reign of the late King <hi>James,</hi> when a long Duty but of 3 <hi> s. per</hi> Chaldon, levied for the building of Churches, Gates, <hi>&amp;c.</hi> of the City of <hi>London,</hi> was expired, and the City desired the said 3 <hi>s.</hi> might be continued, <hi>viz.</hi> 18 <hi> d. per</hi> Chaldron for finishing S. <hi>Pauls,</hi> and 18 <hi> d. per</hi> Chaldron for paying the Orphans.</p>
+            <p>The Parliament, then sitting, before they would grant the City their Request therein, appointed a Committee to inquire into the State of the Coal-trade, as it was at the expiration of paying the 3 <hi>s.</hi> and at the beginning thereof; and, on Enquiry, it appear'd as follows.</p>
+            <p>That before the Duty of 3 <hi> s. per</hi> Chaldron was layed on,
+<note place="margin">
+                  <p>Whi<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e 3 s. <hi>per</hi> Chal<g ref="char:EOLhyphen"/>dron was paid, all the Trade of Ship<g ref="char:EOLhyphen"/>ping built in <hi>England</hi> was lost.</p>
+                  <p>No prevailing with the Parliament to great any more than 1<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <hi>d.</hi> in lieu of 3 <hi>s.</hi>
+                  </p>
+                  <p>An Act made to re<g ref="char:EOLhyphen"/>cover the Building Trade back from <hi>Holland,</hi> &amp;c.</p>
+               </note> abundance of brave stout English Ships were constantly built for carring on the Coal-trade; and so our own Carpenters, Sail-makers, Rope-makers, and all manner of Artificers were employed: But before the said Duty of 3 <hi>s. per</hi> Chaldron was at an end, almost all Building in <hi>England</hi> ceased, and what Ships were mployed were brought from <hi>Holland, Sweden,</hi> &amp;c. whereby the sundry Seaports in <hi>England</hi> were very much impoverished; no Building for Artificers, no Planck nor Timber bought of the Coun<g ref="char:EOLhyphen"/>try Gentlemen, and all because the Owners had no Profit by reason of the 3 <hi> s. per</hi> Chaldron; but as fast as our English Ships decayed, a few old <hi>Holland</hi> built Ships and Scootes were brought in the room thereof. And from the Result of the said Inquiry, the Parliament would by no means be prevailed on to grant any more than 18 <hi>d.</hi> for finishing St. <hi>Pauls;</hi> and in liew thereof gave an Incouraging Act to recover again the lost Trade of Building, by an Act, Intituled, <hi>An Act to Incourage Building of Ships in</hi> England: To which Act the Reader is referred.</p>
+            <p>And, whereas, there's a multitude of Reasons to be given, why 5 <hi> s. per</hi> Chaldron on Coals will be a very unequal Tax on the Consumers as well as destructive to Navigation; yet none can be more plain than what is abovesaid, <hi>viz.</hi> That in the year, 1687. or thereabouts, the Parlia<g ref="char:EOLhyphen"/>ment had the full Matter under their Consideration, and found that 3 <hi> s. per</hi> Chaldron had been very destructive, and would not be prevailed on to lay any more than 18 <hi> d. per</hi> Chaldron; and that neither, if it had not been to finish St. <hi>Pauls.</hi>
+            </p>
+            <p>The Members of Parliament serving for <hi>Ipswich,</hi>
+               <note place="margin">S<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r <hi>John Barker,</hi> S<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r <hi>Charles Bloye<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> S<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r <hi>Henry Johnsou</hi> and Mr. <hi>Fuller.</hi>
+               </note>
+               <hi>Alborough</hi> and <hi>Yarmouth,</hi> have perfect knowledge of this Matter, and can satisfy the House how great an Advantage that Act was to <hi>England</hi> that passed in the late King <hi>James</hi>'s time, and how many brave Ships were soon built in <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> which Trade continued until the Tunnage Act was passed; and that since the said Tunnage Act, not so much as one new Ship, as a Col<g ref="char:EOLhyphen"/>lyer, hath been contracted for. And if 6 <hi> d. per</hi> Tun, by the Tunnage Act, hath so far discouraged Trade, as that one Ship has not been con<g ref="char:EOLhyphen"/>tracted for last Year, where one hundred used to be in one Year before: What then will be the effect of ten times the Tax, which 5 <hi> s. per</hi> Chaldron really is?</p>
+            <p>But lest the Parliament should be under some Misapprehensions,
+<note place="margin">The Projector can<g ref="char:EOLhyphen"/>not make it out that 5 <hi>s</hi> may be paid, and the Poor be serv'd as cheap as before.</note> and think that what the Owners of the Ships say against the 5 <hi> s. per</hi> Chal<g ref="char:EOLhyphen"/>dron is not Truth, and that what the Proposers say on their Part is true, <hi>viz.</hi> That though there be a Duty of 5 <hi> s. per</hi> Chaldron levied, yet the Poor shall have their Coals as cheap as in times of Peace. On the Back hereof is an Account of the prime Cost of the Coals, with the present Taxes that are thereon; which demonstrates, how the Poor were served for 10 years, in Times of Peace, at 18 <hi> s. per</hi> Chaldron, little more or less; and that now if all the Owners of the Coal-Shipping would give the Use of their Ships for nothing, they can never sell their Coals under 23 <hi> s. per</hi> Chaldron: For in this calculation there's nothing accounted for the Adventure, nor Wear and Tare of the Ship, but every Article that is mention'd in the said calculation is paid out of Pocket.</p>
+            <p>But some may object,
+<note place="margin">Goals in Time of Peace sold at 18 <hi> s. per</hi> Chaldron, when 3 <hi>s.</hi> tax'd, because then cheaper at <hi>Newcastle.</hi>
+               </note> That Coals was sold at 18 <hi> s. per</hi> Chaldron when the Duty of 3 <hi> s. per</hi> Chaldron was upon them, which now is but half so much. To which it is answered, That at that Time Coals was bought cheaper at <hi>Newcastle,</hi> and the Owners got by many Voyages no Profit. But that this is the nearest and truest Calculation that can be made of the prime Cost and Taxes that are on the Coals, without any thing allow'd to the Owners for the Adventure, and Wear and Tare of their Ships.</p>
+            <p>It was never heard of in any King or Queen's Reign of <hi>England,</hi> since the days of Queen <hi>Elizabeth,</hi> that there was any Duty laid on Coals, Coastwise,
+<note place="margin">2 <hi> d. per</hi> Chaldron for the Projectors Pocket, was more design'd than the good of the Nation,</note> until after the Fire of <hi>London;</hi> and then <hi>London</hi> was only Taxed to build the Churches, <hi>&amp;c.</hi> but all the Out-Ports were left Free. And though there have been many Projectors, not out of any good Design to the Nation, but purely to get 2 <hi> d. per</hi> Chaldron for their own Manage<g ref="char:EOLhyphen"/>ment, that have been before King <hi>Charles</hi> and King <hi>James,</hi> and with this present King in Council, desiring that they might manage the Coal-Trade, to make it more easie: But all their Pretences appeared to be nothing of Reality, and always sound to be impossible to supply the Sea-Ports with Coals cheaper than they have been supplied from year to year. Though there be a present Rise upon Coals, it's such an Accident as happen'd but once before since the King came to the Crown,
+<note place="margin">The Fleet arriving from <hi>Newcasile</hi> will bring down the Price as it was last Year.</note>
+               <hi>viz.</hi> by a Long, Frosty and Turbulent Winter, in which the Ships could not venture to Sea, and contrary Winds at the Spring of the Year. But that on the Arrival of the Fleet, now laden at <hi>Newcastle,</hi> Coals will fall down again to the current Price that they were at the last Year, <hi>viz.</hi> between 22 and 24 <hi>per</hi> Chaldron, if this present Duty of 5 <hi>s.</hi> does not come upon them.</p>
+            <p>To say no more, There were many humble Representations and Petitions against the Tunnage Act, and there are now many against this, which is much worse in its Nature then the said Tunnage Duty ever was, or will be. First, in respect to the prevention of the Building Trade, and so the Country Gentlemen will find in the Price of their Plank and Timber. Secondly, in the Injury to Navigation, by cutting off the Fourth part at least of the Breed of Seamen. Thirdly, in the Ruin of almost all the Artifices that depend on compleating of Ships for Sea, rela<g ref="char:EOLhyphen"/>ing to the Coal-Trade: And last of all, a much heavier Burden on the Poor than ever the Hearth Money was. From which Considerations i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hoped that some more easie way will, in the great Wisdom of this Honourable House be found out, then laying 5 <hi> s. per</hi> Chaldron on Coals.</p>
+            <div type="table">
+               <pb facs="tcp:198897:2"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label"> l. </cell>
+                        <cell role="label"> s. </cell>
+                        <cell role="label"> d. </cell>
+                     </row>
+                     <row>
+                        <cell>PRime Cost of Coals at <hi>Newcastle,</hi> 10 <hi>s.</hi> 6 <hi> d. per</hi> Chaldron, reduc'd to <hi>London Measure</hi>
+                        </cell>
+                        <cell>0</cell>
+                        <cell>06</cell>
+                        <cell>03</cell>
+                     </row>
+                     <row>
+                        <cell>Duke of <hi>Richmond</hi> and Earl of <hi>Monmouth,</hi> at <hi>Newcastle</hi> 1 <hi>s.</hi> reduced to <hi>London</hi> Measure,</cell>
+                        <cell>0</cell>
+                        <cell>00</cell>
+                        <cell>07</cell>
+                     </row>
+                     <row>
+                        <cell>Town Duties,</cell>
+                        <cell>0</cell>
+                        <cell>00</cell>
+                        <cell>05</cell>
+                     </row>
+                     <row>
+                        <cell>Light-Mony,</cell>
+                        <cell>0</cell>
+                        <cell>00</cell>
+                        <cell>03</cell>
+                     </row>
+                     <row>
+                        <cell>Ballast at <hi>Newcastle</hi> and <hi>London,</hi>
+                        </cell>
+                        <cell>0</cell>
+                        <cell>00</cell>
+                        <cell>06</cell>
+                     </row>
+                     <row>
+                        <cell>Kecledge,</cell>
+                        <cell>0</cell>
+                        <cell>01</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>S. <hi>Paul</hi>'s,</cell>
+                        <cell>0</cell>
+                        <cell>01</cell>
+                        <cell>06</cell>
+                     </row>
+                     <row>
+                        <cell>Meetage,</cell>
+                        <cell>0</cell>
+                        <cell>00</cell>
+                        <cell>04</cell>
+                     </row>
+                     <row>
+                        <cell>Orphans,</cell>
+                        <cell>0</cell>
+                        <cell>00</cell>
+                        <cell>04</cell>
+                     </row>
+                     <row>
+                        <cell>Tunnage Duty 6 <hi>d.</hi> as was intended by Act of Parliament, but by reason of over-Measure,</cell>
+                        <cell>0</cell>
+                        <cell>00</cell>
+                        <cell>08</cell>
+                     </row>
+                     <row>
+                        <cell>Labourers,</cell>
+                        <cell>0</cell>
+                        <cell>01</cell>
+                        <cell>06</cell>
+                     </row>
+                     <row>
+                        <cell>Seamen's Wages and Victuals, at the lowest Rates, in Times of Peace, 4 <hi>s.</hi> or now, with sufficient Convoys, and their Men being kept clear from the Press,</cell>
+                        <cell>0</cell>
+                        <cell>05</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>The intended Duty,</cell>
+                        <cell>0</cell>
+                        <cell>05</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>1</cell>
+                        <cell>03</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>To this may be added, the Freight of the Coals, <hi>viz.</hi> for the Adventure of the Ship, and the Wear and Tare of the same, 4 <hi> s. per</hi> Chaldron; which is but 3 <hi>per Cent.</hi> for the Voyage and Home (no Man will Insure them un<g ref="char:EOLhyphen"/>der 4 or 5 <hi>per Cent.</hi> in Times of Peace) for the Ships that bring 300 Chaldron of Coals apiece, may, one with another be valued in the Bulk of Coals, <hi>&amp;c.</hi> at 2000 <hi>l.</hi> a Ship, many of them being worth 3000 <hi>l.</hi> a piece.</cell>
+                        <cell>0</cell>
+                        <cell>04</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>So that if the Owners have 3 <hi>per Cent.</hi> for their Adven<g ref="char:EOLhyphen"/>ture, Coals must be at</cell>
+                        <cell cols="3">27 <hi>per</hi> Chald.</cell>
+                     </row>
+                     <row>
+                        <cell>And if the Owners nave nothing they must be at</cell>
+                        <cell cols="3">23 <hi>per</hi> Chald.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>So the Poor must pay in time of Peace or War 5 <hi>s.</hi> purely put of Pocket more than if it be not laid; for Coals were sold constantly for 18 <hi>s.</hi> in time of Peace; and the last year, in time of War, at 22 <hi>s.</hi> at both which Prices the Owners had not a Farthing for their Adventure.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:198897:2"/>
+            <p>The CASE of the Owners of Ships, con<g ref="char:EOLhyphen"/>cerned in the Coal-Trade.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
